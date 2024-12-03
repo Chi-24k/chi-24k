@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋🏼, I'm Chi</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">Frontend Dev</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 - 🌱 I’m currently learning **JavaScript, React**
